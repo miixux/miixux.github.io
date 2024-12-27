@@ -1,11 +1,20 @@
-# 沪ICP备14048712号
+!Title: miixux for AdGuard
+!Version: 20241227
+!Last modified: 2024-12-27 12:00
+!Updated: 2024-12-27 16:00:00
+!Expires: never
+!Homepage: https://miixux.github.io
+!!!note! If you are using "AdGuard Home", please load https://miixux.github.io/list.txt
+!Total lines: 515
+
+# 沪ICP备14048712号（上海瑞狮网络科技有限公司）
 ||vlion.cn^
 ||cashslide.cn^
 ||vrezhou.cn^
 ||qtoutiao.cn^
 ||advlion.comv
 
-# 粤ICP备17164067号
+# 粤ICP备17164067号（深圳市易乐云科技有限公司）
 ||yileyunssp.com^
 ||ylygames.com^
 ||efunyun.com^
@@ -17,7 +26,7 @@
 ||ylydsp.com^
 ||ylyadx.com^
 
-# 浙ICP备14019898号
+# 浙ICP备14019898号（每日互动股份有限公司）
 ||getui.cn^
 ||cooltui.com^
 ||huadan.in^
@@ -41,11 +50,11 @@
 ||abeacon.com^
 ||igexin.com^
 
-# 沪ICP备2021025519号
+# 沪ICP备2021025519号（上海奥一洛信息科技有限公司）
 ||aoyiluoad.com^
 ||lovinmob.com^
 
-# 沪ICP备20011467号
+# 沪ICP备20011467号（上海倍孜网络技术有限公司）
 ||beizi.biz^
 ||ad-scope.com.cn^
 ||adscope.com.cn^
@@ -56,7 +65,7 @@
 ||adscope.xyz^
 ||adn-plus.com.cn^
 
-# 浙ICP备17008134号
+# 浙ICP备17008134号（八维通科技有限公司）
 ||bwton.cn^
 ||bwlx.pro^
 ||bwton-console.cn^
@@ -64,7 +73,7 @@
 ||sjz-metro.cn^
 ||bwton.com^
 
-# 京ICP备15033933号
+# 京ICP备15033933号（北京美数信息科技有限公司）
 ||atdplus.cn^
 ||1rtb.cn^
 ||adxdata.com^
@@ -327,6 +336,12 @@
 ||takumediation.com^
 ||uparpu.com^
 ||toponad.com^
+
+# 粤ICP备18126962号（广州万紫网络科技有限公司）
+||wanzia.com^
+||wanzi.com^
+||wanziz.com^
+||wanzir.com^
 
 # 京ICP备08010314号（北京奇虎科技有限公司）
 ||360wzb.com^
