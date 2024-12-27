@@ -498,9 +498,13 @@
 ||byteq5k.com^
 ||bytescm.com^
 ||bytetcc.com^
+||bytetos.com^
 ||bytetraffic.net^
+||byteurl.cn^
 ||bytevalk.com^
 ||cdndns2.com^
+||douyin.com^
+||douyinpic.com^
 ||druid.vip^
 ||fedlearner.net^
 ||gslbdns.com^
@@ -562,6 +566,7 @@
 ||itoutiaoimg.com^
 ||itoutiaovod.com^
 ||vfcdnrd.com^
+||volces.com^
 ||volcdns-test.net^
 ||volcanicengine.com^
 ||wtturl.cn^
