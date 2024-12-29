@@ -12,7 +12,7 @@
 ||cashslide.cn^
 ||vrezhou.cn^
 ||qtoutiao.cn^
-||advlion.comv
+||advlion.com^
 
 # 粤ICP备17164067号（深圳市易乐云科技有限公司）
 ||yileyunssp.com^
@@ -212,7 +212,7 @@
 ||n1q.com^
 ||wendax.com^
 ||huizan.pro^
-||cdnmaster.co^
+||cdnmaster.com^
 ||tuice.com^
 ||jingshuo.com^
 ||admasterapi.com^
