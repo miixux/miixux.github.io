@@ -1,4 +1,4 @@
-24!Title: miixux for AdGuard
+!Title: miixux for AdGuard
 !Version: 20241227
 !Last modified: 2024-12-27 12:00
 !Updated: 2024-12-27 16:00:00
