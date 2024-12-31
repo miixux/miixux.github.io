@@ -1,11 +1,11 @@
 !Title: miixux for AdGuard
-!Version: 20241230
+!Version: 20250101
 !Last modified: 2024-12-27 12:00
 !Updated: 2024-12-30 16:38:00
 !Expires: never
 !Homepage: https://miixux.github.io
 !!!note! If you are using "AdGuard Home", please load https://miixux.github.io/icplist.txt
-!Total lines: 525
+!Total lines: 938
 
 # 沪ICP备14048712号（上海瑞狮网络科技有限公司）
 ||advlion.com^
