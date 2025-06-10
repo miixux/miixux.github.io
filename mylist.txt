@@ -87,6 +87,9 @@
 ||doubleclick.net^
 ||googlesyndication.com^
 
+# 以下设置为阻止APP获取并跟踪用户数据
+||app-measurement.com^
+
 # 以下设置为需要放行的网址
 @@||g.live.com^$important
 @@||s.click.taobao.com^$important
