@@ -126,6 +126,7 @@
 ||好123.网络.cn^
 
 # 以下为拦截测试
+||pull-m1.wxlivecdn.com^
 ||minorshort.weixin.qq.com^
 ||finder*.video.qq.com^
 ||finderqv.video.qq.com^
@@ -140,3 +141,4 @@
 ||finderajy.video.qq.com^
 ||finderbdy.video.qq.com^
 ||findertysjy.video.qq.com^
+
