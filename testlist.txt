@@ -126,11 +126,4 @@
 ||好123.网络.cn^
 
 # 以下为拦截测试
-||finderqv.video.qq.com^
-||finderdsp.video.qq.com^
-||finderhy.video.qq.com^
-||finderhsy.video.qq.com^
-||h5vv6.video.qq.com^
-||findergdtyy.video.qq.com^
-||findertyyy.video.qq.com^
-||finderajy.video.qq.com^
+||finder*.video.qq.com^
