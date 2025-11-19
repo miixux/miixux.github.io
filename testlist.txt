@@ -141,4 +141,4 @@
 ||finderajy.video.qq.com^
 ||finderbdy.video.qq.com^
 ||findertysjy.video.qq.com^
-
+||findeross.weixin.qq.com^
