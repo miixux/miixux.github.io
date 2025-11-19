@@ -129,6 +129,7 @@
 ||tdnsv5.com^
 ||dldir1.qq.com^
 ||wxqcloud.qq.com^
+||tcdnlive.com^
 ||pull-m1.wxlivecdn.com^
 ||minorshort.weixin.qq.com^
 ||finder*.video.qq.com^
