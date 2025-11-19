@@ -126,7 +126,9 @@
 ||好123.网络.cn^
 
 # 以下为拦截测试
-||pull-m1.wxlivecdn.com^
+||tdnsv5.com^
+||dldir1.qq.com^
+||cpull-m1.wxlivecdn.com^
 ||minorshort.weixin.qq.com^
 ||finder*.video.qq.com^
 ||finderqv.video.qq.com^
