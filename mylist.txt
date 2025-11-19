@@ -66,6 +66,7 @@
 ||ytundfg.com^
 ||yunjuhe.cn^
 ||yuelanxinghe.com^
+||catcat321.com^
 
 # 以下设置为拦截百度广告
 ||click.xiaodutv.com^
@@ -98,3 +99,4 @@
 @@||amazon.cn^$important
 @@||baidu.com^$important
 @@||xiaodutv.com^$important
+
