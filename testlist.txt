@@ -128,6 +128,7 @@
 # 以下为拦截测试
 ||tdnsv5.com^
 ||dldir1.qq.com^
+||wxqcloud.qq.com^
 ||pull-m1.wxlivecdn.com^
 ||minorshort.weixin.qq.com^
 ||finder*.video.qq.com^
