@@ -66,6 +66,8 @@
 ||ytundfg.com^
 ||yunjuhe.cn^
 ||yuelanxinghe.com^
+||ahdohpiechei.com^
+||adbiding.cn^
 
 # 以下设置为拦截百度广告
 ||click.xiaodutv.com^
@@ -74,6 +76,7 @@
 ||als.baidu.com^
 ||hm.baidu.com^
 ||bgg.baidu.com^
+||shifen.com^
 
 #以下设置为拦截京东广告
 ||jpush.com^
@@ -98,4 +101,5 @@
 @@||amazon.cn^$important
 @@||baidu.com^$important
 @@||xiaodutv.com^$important
+
 
