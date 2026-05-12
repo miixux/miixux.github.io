@@ -68,6 +68,9 @@
 ||yuelanxinghe.com^
 ||ahdohpiechei.com^
 ||adbiding.cn^
+||chinaliftoff.io^
+||chinaliftoff-creatives.io^
+||vungle.com^
 
 # 以下设置为拦截百度广告
 ||click.xiaodutv.com^
@@ -81,11 +84,15 @@
 #以下设置为拦截京东广告
 ||jpush.com^
 
+#以下设置为拦截菜鸟裹裹广告
+||adashx.ut.cainiao.com^
+
 # 以下设置为拦截喜马拉雅广告
 ||adbehavior.ximalaya.com^
 ||adse.ximalaya.com^
 ||adwbs.ximalaya.com^
 ||adse.wsa.ximalaya.com^
+||ad-incentive.ximalaya.com^
 
 # 以下设置为拦截GOOGLE广告
 ||doubleclick.net^
@@ -101,5 +108,3 @@
 @@||amazon.cn^$important
 @@||baidu.com^$important
 @@||xiaodutv.com^$important
-
-
