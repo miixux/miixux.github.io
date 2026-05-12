@@ -7,6 +7,64 @@
 !!!note! If you are using "AdGuard Home", please load https://miixux.github.io/icplist.txt
 !Total lines: 938
 
+# 沪ICP备13018775号（谷歌广告（上海）有限公司）
+||googleapis.cn^
+||recaptcha-cn.net^
+||googletagmanager-cn.com^
+||googleads-cn.com^
+||googletagservices-cn.com^
+||admob-cn.com^
+||googlevads-cn.com^
+||googleflights-cn.net^
+||app-measurement-cn.com^
+||2mdn-cn.net^
+||gstatic.cn^
+||googlesandbox-cn.com^
+||googleapis-cn.com^
+||doubleclick.net^
+||doubleclick-cn.net^
+||googlesyndication-cn.com^
+||googleadsserving.cn^
+||ggpht.cn^
+||googlecnapps.cn^
+||googleoptimize-cn.com^
+||gongyichuangyi.net^
+||dartsearch-cn.net^
+||googledownloads.cn^
+||gstatic-cn.com^
+||gvt1-cn.com^
+||google-analytics-cn.com^
+||googlers-cn.com^
+||googleadservices-cn.com^
+
+# 京ICP备2024092411号（北京空山信息技术有限公司）
+||abcdefgaijkl.com^
+||wiebaijitamo.com^
+||abcdegghijkl.com^
+||opqrsduvwxyz.com^
+||zyxwvutsrqpo.com^
+||clipspacexyy.com^
+||netvisorhub.com^
+||lmnopqrstuvw.com^
+||quantazoomz.com^
+||stormfluxixx.com^
+||datapixelzzx.com^
+||ijklmnopqrst.com^
+||flexcloudyz.com^
+||dooquuequezi.com^
+||taishoopecei.com^
+||qrstuvwxyzab.com^
+||zeicaefiegoh.com^
+||zonerushappz.com^
+||techvortexz1.com^
+||alphawebzzz.com^
+||gliderboxxyy.com^
+||ahdohpiechei.com^
+||xionguamaqui.com^
+||gaetausohyei.com^
+||roongeimahwo.com^
+||kaiwaijaicai.com^
+
 # 沪ICP备14048712号（上海瑞狮网络科技有限公司）
 ||advlion.com^
 ||cashslide.cn^
@@ -1097,3 +1155,21 @@
 ||woaiyt.com^
 ||wodeyt.com^
 ||yuncheapp.cn^
+
+# 粤ICP备15042009号（ 广州汇量信息科技有限公司 ）
+||nativex.cn^
+||lenzmx.com^
+||spotmaxtech.com^
+||dspunion.com^
+||nativex.com^
+||gameanalytics.com^
+||mobvista.cn^
+||mobvista.com^
+||rayjump.com^
+
+# 粤ICP备19003624号（ 广州汇世信息科技有限公司 ）
+||mintegral.com^
+||mintegral.net^
+||mintegral.cn^
+||huishixinxi.com^
+
