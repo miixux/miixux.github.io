@@ -94,10 +94,6 @@
 ||adse.wsa.ximalaya.com^
 ||ad-incentive.ximalaya.com^
 
-# 以下设置为拦截GOOGLE广告
-||doubleclick.net^
-||googlesyndication.com^
-
 # 以下设置为阻止APP获取并跟踪用户数据
 ||app-measurement.com^
 
