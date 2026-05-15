@@ -71,6 +71,7 @@
 ||chinaliftoff.io^
 ||chinaliftoff-creatives.io^
 ||vungle.com^
+||letv.com^
 
 # 以下设置为拦截百度广告
 ||click.xiaodutv.com^
