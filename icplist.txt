@@ -1156,7 +1156,7 @@
 ||wodeyt.com^
 ||yuncheapp.cn^
 
-# 粤ICP备15042009号（ 广州汇量信息科技有限公司 ）
+# 粤ICP备15042009号（广州汇量信息科技有限公司）
 ||nativex.cn^
 ||lenzmx.com^
 ||spotmaxtech.com^
@@ -1167,9 +1167,53 @@
 ||mobvista.com^
 ||rayjump.com^
 
-# 粤ICP备19003624号（ 广州汇世信息科技有限公司 ）
+# 粤ICP备19003624号（广州汇世信息科技有限公司）
 ||mintegral.com^
 ||mintegral.net^
 ||mintegral.cn^
 ||huishixinxi.com^
 
+# 京ICP备14062503号（北京一笑科技发展有限公司）
+||gifshow.com^
+||inkuai.com^
+||ekywgexv.com^
+||pvgykxbc.com^
+||kwaishare.com^
+||vtcskapm.com^
+||gmvxorva.com^
+||tc471cyhud.com^
+||sszvobvi.com^
+||eyaopbzc.com^
+||ktcuxets.com^
+
+# 粤ICP备14008884号（深圳市网心科技有限公司）
+||peiluyou.com^
+||onething.net^
+||onethingc.com^
+||onethingd.com^
+||onethingn.com^
+||onethingpcs.com^
+||onethingcloud.cn^
+||onethingcloud.com^
+||onethingtech.net^
+||onethingtech.com.cn^
+||onethingnas.com^
+||onethingnas.cn^
+||walk-live.com^
+||xylive.tv^
+||wzhibo.tv^
+||wezhibo.tv^
+||wzhibo.net^
+||wezhibo.net^
+||xycdn.com^
+||xycdn.net^
+||xycloud.com^
+||xunleioa.com^
+||0101cdn.com^
+||kuiniuca.com^
+||seekr.com.cn^
+||miuapp.com.cn^
+||uhabo.com^
+||ionecloud.cn^
+||hiveshared.com^
+||hongboluo.com^
