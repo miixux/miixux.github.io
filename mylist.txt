@@ -80,9 +80,7 @@
 ||qewbn.com^
 
 # 以下设置为拦截百度广告
-||click.xiaodutv.com^
-||nsclickvideo.xiaodutv.com^
-||xda.xiaodutv.com^
+||xiaodutv.com^
 ||ada.baidu.com^
 ||als.baidu.com^
 ||hm.baidu.com^
