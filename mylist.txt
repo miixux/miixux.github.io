@@ -72,9 +72,16 @@
 ||chinaliftoff-creatives.io^
 ||vungle.com^
 ||letv.com^
+||ppqrrs.com^
+||ycfog.com^
+||viptulz.com^
+||dytt-img.com^
+||picbf.com^
+||qewbn.com^
 
 # 以下设置为拦截百度广告
 ||click.xiaodutv.com^
+||nsclickvideo.xiaodutv.com^
 ||xda.xiaodutv.com^
 ||ada.baidu.com^
 ||als.baidu.com^
