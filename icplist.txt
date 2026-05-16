@@ -1208,3 +1208,15 @@
 ||ionecloud.cn^
 ||hiveshared.com^
 ||hongboluo.com^
+
+# 京ICP备17055630号（北京懒人信息科技有限公司）
+||wasair.com^
+||lanrenfuli.com^
+||wasai666.com^
+||52lan.com^
+||wslanren.com^
+||huhusaving.cn^
+||51miaosheng.cn^
+||51miaosheng.com.cn^
+||1miaosheng.cn^
+||huhushengqian.com.cn^
