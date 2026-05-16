@@ -88,6 +88,7 @@
 ||hm.baidu.com^
 ||bgg.baidu.com^
 ||shifen.com^
+||bcebos.com^
 
 #以下设置为拦截京东广告
 ||jpush.com^
