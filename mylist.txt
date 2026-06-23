@@ -97,6 +97,7 @@
 
 #以下设置为拦截腾讯广告
 ||v2mi.gdt.qq.com^
+||wxa.wxs.qq.com^
 
 #以下设置为拦截菜鸟裹裹广告
 ||adashx.ut.cainiao.com^
