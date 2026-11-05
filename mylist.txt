@@ -1,3 +1,8 @@
+# 以下设置为拦截反诈引擎和隐私上报系统
+||dm.wo.com.cn^
+||fraud-detection.engine.miui.com^
+||flash.sec.miui.com^
+
 # 以下设置为需要屏蔽的网址（按字母排序）
 ||72kjmb.com^
 ||88lajs3.com^
